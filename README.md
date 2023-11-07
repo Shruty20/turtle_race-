@@ -34,6 +34,6 @@ The code consists of two main functions: start_race() and restart_game(). These 
 The game uses the turtle library for graphics and animation. Six turtles with different colors are created, and they move forward at varying speeds. The game calculates the winning turtle based on the first one to cross the finish line.
 
 
-
+HAPPY GAMING AND PRODUCTIVITY!!!!!!!!!!!!!!!!!!
 
 
